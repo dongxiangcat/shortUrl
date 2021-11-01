@@ -19,6 +19,12 @@
 
 ## 简要流程图
 ![Image text]
+(https://github.com/dongxiangcat/shortUrl/blob/master/images/shorturl.png)
+
 
 ## jacoco测试覆盖率
 ![Image text]
+(https://github.com/dongxiangcat/shortUrl/blob/master/images/shorturl-jacoco.png)
+
+## 性能测试
+待完成
